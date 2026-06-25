@@ -26,3 +26,21 @@ footer{
     height: 3vh;
     font-size: 10px;
 }
+.btn{
+    background-color:blue;
+}
+a{
+    color:rgb(75, 47, 255);
+    font-weight: bolder;
+    text-decoration: none;
+}
+.card{
+    background-color: rgba(153, 205, 50, 0.053);
+    text-align: center;
+}
+.alert-danger{
+    background-color: aqua;
+    color: black;
+    border-color: blueviolet;
+    
+}
