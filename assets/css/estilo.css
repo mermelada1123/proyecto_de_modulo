@@ -15,20 +15,20 @@ h1, h2, h3, h4,h5,h6{
 }
 header{
     height: 20vh;
+    padding: 0 20px;
 }
 main{
-    height: 77vh;
+    min-height: 75vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 footer{
-    height: 3vh;
+    height: 5vh;
     font-size: 10px;
 }
-.btn{
-    background-color:blue;
-}
+
+
 a{
     color:rgb(75, 47, 255);
     font-weight: bolder;
@@ -43,4 +43,16 @@ a{
     color: black;
     border-color: blueviolet;
     
+}
+i{
+    color: blue;
+
+    
+}
+.btn{
+    background-color: blue;
+}
+#salir{
+    background-color: red;
+    color:white;
 }
